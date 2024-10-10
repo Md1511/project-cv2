@@ -25,6 +25,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/services/discovery/pom.xml" />
+        <option value="$PROJECT_DIR$/services/discoveryy/pom.xml" />
       </set>
     </option>
   </component>
